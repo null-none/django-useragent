@@ -2,14 +2,13 @@ Django User Agents
 ==================
 
 A django package that allows easy identification of visitor's browser, OS and device information,
-including whether the visitor uses a mobile phone, tablet or a touch capable device. Under the hood,
-it uses `https://github.com/null-none/django-useragent`.
+including whether the visitor uses a mobile phone, tablet or a touch capable device.
 
 
 Installation
 ============
 
-1. Install ``django-useragent``, you'll have to make sure that `user-agents`_ is installed first::
+1. Install ``django-useragent``, you'll have to make sure that `user-agents` is installed first::
 
     pip install django-useragent
 
