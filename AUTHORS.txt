@@ -1,0 +1,5 @@
+Authors:
+
+* Selwin Ong (https://github.com/selwin)
+- Daniel Hawkins (https://github.com/hwkns)
+- Kalinin Mitko (https://github.com/null-none)
