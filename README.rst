@@ -158,7 +158,7 @@ Running Tests
 Changelog
 =========
 
-0.4.0
+0.5.0
 -----
 * Add support for Django 2.2 to 3.2.
 
