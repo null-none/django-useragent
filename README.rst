@@ -109,7 +109,7 @@ View Usage
 Template Usage
 --------------
 
-``django-user_agents`` comes with a few template filters:
+``django-useragent`` comes with a few template filters:
 
 * ``is_mobile``
 * ``is_tablet``
@@ -152,7 +152,7 @@ Running Tests
 
 .. code-block:: console
 
-    `which django-admin.py` test django_user_agents --settings=django_useragent.tests.settings --pythonpath=.
+    `which django-admin.py` test django_useragent --settings=django_useragent.tests.settings --pythonpath=.
 
 
 Changelog
